@@ -52,6 +52,15 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """Manage and conduct sports events for the department students."""
+  
+  [[experience]]
+  title = "Sports Secretary"
+  company = "Department of Metallurgy and Material Science"
+  company_url = "http://mme.vnit.ac.in/"
+  location = "VNIT, Nagpur"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """Manage and conduct sports events for the department students."""
 
 [[experience]]
   title = "Project Mentor"
